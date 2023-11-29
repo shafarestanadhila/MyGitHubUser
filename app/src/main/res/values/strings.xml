@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyGitHubUser</string>
+    <string name="profilePhoto">Profile Photo</string>
+    <string name="profile">Profile</string>
+    <string name="UserFollowers">Followers</string>
+    <string name="UserFollowing">Following</string>
+    <string name="searchbar_hint">Enter Username</string>
+    <string name="menu_1">Setting</string>
+    <string name="menu_2">Favorite</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="iv_splash_screen">Icon Launcher on Splash Screen</string>
+    <string name="detail_app_name">User Detail</string>
+    <string name="theme">Dark Mode</string>
+    <string name="no_data">Username tidak ditemukan</string>
+    <string name="no_followers">Daftar pengikut tidak ditemukan</string>
+    <string name="no_following">Daftar mengikuti tidak ditemukan</string>
+    <string name="no_favorite">Daftar favorite tidak ditemukan</string>
+    <string name="error">Gagal memuat</string>
+</resources>
